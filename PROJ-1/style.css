@@ -1,0 +1,17 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    text-align: center;
+    background-color: rgb(43, 236, 236);
+    font-size: large;
+}
+#btn{
+    font-size: 30px;
+    background-color: aquamarine;
+    margin: 10px;
+}
+.container-1{
+    margin-top: 300px;
+    text-align: center;
+}

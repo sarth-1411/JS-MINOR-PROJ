@@ -1,0 +1,25 @@
+.container{
+    text-align: center;
+    margin-top: 200px;
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container h2{
+    color: purple;
+}
+#btni{
+    margin: 5px;
+    font-size: 25px;
+    background-color: aquamarine;
+}
+#btnr{
+    margin: 5px;
+    font-size: 25px;
+    background-color: aquamarine;
+}
+#btnd{
+    margin: 5px;
+    font-size: 25px;
+    background-color: aquamarine;
+}
